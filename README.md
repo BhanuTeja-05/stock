@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction App
+# 📈 Stock Price Prediction
 
 A Streamlit app to predict stock prices and give buy/hold/sell recommendations using ML models.
 
